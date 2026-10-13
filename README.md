@@ -33,6 +33,7 @@
 
 | Project | Description |
 | --- | --- |
+| [**ShopVerse**](https://github.com/Suboon-stack/flutter-shop-app) | A full-featured Flutter e-commerce store: search with category fallback, filters, cart, favorites, and checkout. Riverpod + Hive + DummyJSON. |
 | [**Allen-Fitness-Coach**](https://github.com/Suboon-stack/Allen-Fitness-Coach) | A Gemini-powered fitness companion app. |
 | [**Flutter To-Do List App**](https://github.com/Suboon-stack/todo-app) | A modern to-do list app built with Flutter: add, edit, delete, and filter tasks with local persistence. |
 
