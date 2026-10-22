@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Zay Yar Min 👋</h1>
 
 <p align="center">
-  <b>Final-year student at Rangsit University</b> · Aspiring <b>Flutter mobile developer</b>
+  <b>Final-year student at Rangsit University</b> · Aspiring to be a<b>Flutter mobile developer</b>
 </p>
 
 <p align="center">
